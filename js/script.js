@@ -24,8 +24,27 @@ const config = {
             },
      
         ],
-      
+
+        developers: [
+            {
+                inGameName: "BrokenOwner",
+                rank: "Developer",
+                skinUrlOrPathToFile: "https://i.ibb.co/ChZw4hR/dd6b262e86b64dd4ae35c1770c0b03c0-2.png",
+                rankColor: "rgb(51, 51, 51)"
+            },
+     
+        ],
+        helpers: [
+            {
+                inGameName: "Blonde",
+                rank: "Helper",
+                skinUrlOrPathToFile: "https://i.ibb.co/vdmR7dB/dd6b262e86b64dd4ae35c1770c0b03c0-1.png",
+                rankColor: "rgb(50, 66, 82)"
+            },
+     
+        ],
     },
+
 
   
     contactPage: {
